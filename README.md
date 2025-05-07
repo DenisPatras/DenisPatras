@@ -1,5 +1,5 @@
 # 💫 About Me:
-#### I'm a full-stack developer<br><br><br>![facebook_cover_photo_1](https://github.com/DenisPatras/DenisPatras/assets/113235420/5bb92dd2-8bb3-4691-a847-f1d68badd6ac)<br><br><br>“Measuring programming progress by lines of code is like measuring aircraft building progress by weight.”<br><br>Bill Gates<br><br>I am a full-stack developer student, I am studying the main programming languages and I am working hard to become a good programmer. My goal is to enter the world of work as a web programmer. Nothing is impossible with hard work and sacrifice!
+
 
 
 ## 🌐 Socials:
